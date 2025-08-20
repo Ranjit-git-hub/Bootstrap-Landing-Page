@@ -1,0 +1,129 @@
+*{
+     font-family: "Inter", sans-serif;
+}
+
+.whatappbtn{
+     border: 1px solid #27AE60;
+     padding: 10px 18px;
+     color:  #27AE60;
+     font-size: 16px;
+}
+.whatappbtn i{
+     color:  #27AE60;
+     
+}
+
+.whatappbtn.hover{
+     border: 1px solid #27AE60;
+}
+
+.call{
+     color: white ;
+     padding: 10px 18px;
+     background: linear-gradient(to right, #0ACEFE,#2699FB);
+}
+
+.banner-content h1{
+     font-size: 52px;
+     font-weight: 700;
+}
+
+.banner-content h1 span{
+     color: #2699FB;
+     /* background: url("../images/border.png") no-repeat bottom; */
+}
+
+.banner-content p{
+     font-size: 22px;
+}
+
+.banner-content ul{
+     list-style: none;
+}
+
+.banner-content ul li{
+     font-size: 22px;
+}
+.banner-content ul li i{
+     color: #2699FB;
+}
+
+.banner-content-btn button{
+     width: 50%;
+     padding: 10px 0px;
+     border-radius: 5px;
+}
+
+.banner-content-btn button:first-child{
+     color: white;
+     background: linear-gradient(to right,#0ACEFE,#2699FB);
+
+}
+
+.banner-form{
+     padding: 40px;
+     border-radius: 10px;
+}
+
+.banner-form h3{
+     font-size: 18px;
+     font-weight: 700;
+}
+
+.banner-form button{
+     width: 100%;
+     padding: 10px 0px;
+     background: linear-gradient(to right,#0ACEFE,#2699FB);
+     border: none;
+     color: white;
+}
+
+.counter-section h2{
+     font-size: 30px;
+     font-weight: 700;
+     color: #2699FB;
+
+}
+.highlights-section{
+    background-color: #F7FAFF;
+}
+
+.highlights-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlights-section p{
+     font-size: 18px;
+}
+
+.highlights-items h4 {
+     font-size: 20px;
+     font-weight: 600;
+}
+
+.highlights-items p{
+     font-size: 15px;
+}
+
+#navbarNav ul li a{
+     font-weight: bold;
+     margin-right: 15px;
+     color: #0ACEFE;
+}
+
+.tabItemsContent ul{
+     list-style: none;
+}
+
+.tabMySystem .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+     background-color: #F2F4F7;
+     color: #0A2134 ;
+     border-radius: 0px;
+     border-bottom: 2px solid blue;
+
+}
+
+
+/*this is my awesome font code[<i class="fa-regular fa-file"></i>]  i want a bg around this i tag. currently using bootstap 
