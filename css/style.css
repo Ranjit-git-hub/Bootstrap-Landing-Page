@@ -125,5 +125,26 @@
 
 }
 
+    footer {
+      background-color: #0d1b2a;
+      color: white;
+      padding: 40px 0;
+    }
 
-/*this is my awesome font code[<i class="fa-regular fa-file"></i>]  i want a bg around this i tag. currently using bootstap 
+    .company-logos img {
+      max-height: 80px; /* Increased from 50px */
+      margin: 20px;
+      object-fit: contain;
+    }
+
+    .footer-logo {
+      font-weight: bold;
+      font-size: 20px;
+      margin-bottom: 15px;
+    }
+
+    .footer-text {
+      max-width: 500px;
+      margin: auto;
+      font-size: 14px;
+    }
